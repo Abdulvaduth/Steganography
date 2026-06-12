@@ -13,7 +13,7 @@ OperationType check_operation_type(char *argv[])
     */
 }
 
-// hi this is my project
+// hi this is my work
 
 int main(int argc, char* argv[])
 {
